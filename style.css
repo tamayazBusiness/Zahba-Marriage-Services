@@ -160,7 +160,11 @@
   background-color:#c79456;
 }
 
-.button a{
+.buttons a{
+  color: #fff;
+}
+
+.buttons .btn{
   color: #fff;
 }
 .profile-card .media-buttons {
